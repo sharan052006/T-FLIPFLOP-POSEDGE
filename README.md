@@ -64,7 +64,7 @@ reg [7:0] data_out;
 ![ex-9-d](https://github.com/user-attachments/assets/392d5942-8846-4c85-9d59-2c4acb966589)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![ex-9-w](https://github.com/user-attachments/assets/97bfc3c1-96da-4ea5-8034-3b7d09328cdc)
+![Screenshot (87)](https://github.com/user-attachments/assets/bda4f455-3d3f-4f50-bcdb-bd9b8140c917)
 
 **RESULTS**
 T flipflop is implemented and their functionality is validated
